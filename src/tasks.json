@@ -1,0 +1,12 @@
+[
+    { "id": 1, "text": "This is an example of a text that contains exactly fifteen simple English words." },
+    { "id": 2, "text": "Another text example is here with exactly fifteen words for your array request." },
+    { "id": 3, "text": "Here is the third object that also contains fifteen words in this sentence." },
+    { "id": 4, "text": "This fourth example text includes exactly fifteen words, just like you asked." },
+    { "id": 5, "text": "The fifth text in the array is also made of exactly fifteen English words." },
+    { "id": 6, "text": "Sixth example for the array with a text that has fifteen words in total here." },
+    { "id": 7, "text": "This seventh text object is another example of a sentence with fifteen words." },
+    { "id": 8, "text": "The eighth sentence here also contains exactly fifteen words, as you requested." },
+    { "id": 9, "text": "Ninth object has a text that includes exactly fifteen words for this example array." },
+    { "id": 10, "text": "Finally, the tenth text example is here with fifteen English words for you." }
+]
